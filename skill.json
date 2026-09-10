@@ -1,0 +1,15 @@
+{
+  "name": "genpark-trans-e-knowledge-graph-embedding-skill",
+  "version": "1.0.0",
+  "description": "TransE multi-relational geometric knowledge graph embedding engine representing relations as translations h + r approx t in continuous vector spaces.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "knowledge-graphs",
+    "transe",
+    "graph-embeddings",
+    "semantic-web"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
